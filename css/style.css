@@ -1,0 +1,15 @@
+img{
+    height: 150px;
+}
+
+body{
+	font-family: times new roman;
+}
+
+ul{
+	list-style-type: none;
+}
+
+li{
+	display: inline;
+}
